@@ -11,8 +11,7 @@
 
 ### 📚 My Language Tools
 
-Explore my collection of online language tools: [Visit Bhasha Tools Website](https://vikramah.github.io/bhasha-tools/)
+Explore my collection of online language tools: [Click here to Visit Bhasha Tools](https://vikramah.github.io/bhasha-tools/)
 
 ---
 
-You can also find the code for these tools in the [bhasha-tools repository](https://github.com/vikramaH/bhasha-tools).
